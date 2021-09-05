@@ -8,4 +8,4 @@ s = "https://khushnoodasif.com"
 qr = pyqrcode.create(s)
 
 #Saving QR Code in .svg format
-qr.svg("myyt.svg",scale = 7)
+qr.svg("website.svg",scale = 7)
