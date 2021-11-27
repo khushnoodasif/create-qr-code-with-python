@@ -26,7 +26,7 @@ Now that we have the code finished, we can run the program. The program creates 
 
 **QR Code**
 
-![QR Code](https://github.com/khushnoodasif/create-qr-code-with-python/blob/main/qrcode.png?raw=true)
+![QR Code](https://raw.githubusercontent.com/khushnoodasif/create-qr-code-with-python/b1eb98e1906989c852cf534f883f052712c4af4f/blog.svg)
 
 I have posted this python file's source code on my [GitHub repository](https://github.com/khushnoodasif/create-qr-code-with-python). Also, check the walk-through on [YouTube](https://youtu.be/N9AT6u3Ey-4).
 
